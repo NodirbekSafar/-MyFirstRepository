@@ -19,3 +19,6 @@ o'zgartirish
 * Отправка в удаленный репозиторий (Push)
 * Обновление локального репозитория (Pull / Fetch)
 * Слияние (Merge)
+* fjfhkgkugujk
+* hjkghkghkghjk
+* ghjfhkfhk
