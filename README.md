@@ -15,4 +15,6 @@ o'zgartirish
 * fghjcgj,ch.chikl
 * cghjkcgujl,vhil
 * vhj,cghj,lvhlvj
-* 
+* keyingi
+* 1
+* 2
